@@ -1,0 +1,1 @@
+Ini adalah file .ipynb yang digunakan selama menyusun model dalam tugas akhir Virtual Internship Experience yang diselenggarakan oleh Home Credit Indonesia bersama Rakamin Academy.
